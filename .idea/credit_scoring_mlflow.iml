@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PYTHON_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/.trash" />
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/0/32806d416d614cab80e5950b057668f5/artifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/0/32806d416d614cab80e5950b057668f5/metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/0/976245e90ed34525b26b6d147ab33b33/artifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/0/a3a2b64e5fde47c7b5e3029bb8080e7b/artifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/0/a50bf9fca96b43a9bd17f470fe0359d1/artifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/MLproject/mlruns/0/a50bf9fca96b43a9bd17f470fe0359d1/metrics" />
+      <excludeFolder url="file://$MODULE_DIR$/mlartifacts" />
+      <excludeFolder url="file://$MODULE_DIR$/mlruns" />
+    </content>
+    <orderEntry type="jdk" jdkName="Python 3.12" jdkType="Python SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
